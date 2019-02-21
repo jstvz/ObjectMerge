@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "45.0",
     "packageAliases": {
-        "objectmerge": "0Ho1U000000XZGUSA4"
+        "objectmerge": "0Ho1U000000XZGUSA4",
+        "objectmerge@0.1.0-1": "04t1U000005k9jNQAQ"
     }
 }
