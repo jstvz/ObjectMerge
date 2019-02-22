@@ -120,3 +120,7 @@ Once installed, you'll want to set up your first Object Merge Handler. To do so,
 	* Add the new lookup fields to the new Page Layout
 	* Create a Process Builder on Object Merge Pair that populates the Master ID field with whatever is in the Master Contact field. Do the same for Victim ID and Victim Contact.
 * If you have a license to DemandTools MassImpact, use this <a href="https://github.com/kyleschmid/ObjectMerge/blob/master/DemandTools_MassImpact_Set_Status_to_Retry.MIxml" target="_blank" >scenario</a> to set the statuses of all Object Merge Pair records with an "Error" status to "Retry" to attempt the merges again.
+
+## Other Relevant Resrouces
+* The Salesforce.org Long Beach Spring (2/20/19 - 2/21/19) worked on a similar project which provides additional needs and use cases for duplicate management within Salesforce: https://docs.google.com/document/d/17TlT-dQTqNqXKe7N75h9fhFrkJJ4A8w1ofNRAZjugzk
+* A separate repo begin putting together the framework for finding duplicate records and creating Duplicate Record Sets & Items: https://github.com/patrick-yan-sf/FindDuplicates
